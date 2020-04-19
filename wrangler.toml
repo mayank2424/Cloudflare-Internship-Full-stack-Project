@@ -1,0 +1,4 @@
+name = "mayank-gupta-cloudflare-project"
+type = "webpack"
+account_id = "70cf66d87c54d04b0f44e4e1e4115ecb"
+workers_dev = true
