@@ -10,8 +10,8 @@ Task Completed:
   
   - **Extra Credits**:
   
-     - Implmented HTMLRewriter API to Rewrite whole HTML page
+     - Implemented HTMLRewriter API to Rewrite whole HTML page
       
-    - Persisting variants, used cookies to show saved webpage next time user loads the page
+     - Persisting variants, used cookies to show saved webpage next time user loads the page
       
-    - Added new HTML Components to enhance webpage
+     - Added new HTML Components to enhance webpage
